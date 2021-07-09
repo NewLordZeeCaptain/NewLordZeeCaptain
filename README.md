@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NewLordZeeCaptain
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning HTML,CSS and soon will learn JS and PHP
+- 📫 How to reach me: telegram @NewLordZeeCaptain
