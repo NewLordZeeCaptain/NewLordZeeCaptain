@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NewLordZeeCaptain
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning HTML,CSS and Go
+- 🌱 I’m currently learning Python & PostgreSQL
 - 📫 How to reach me: telegram @NewLordZeeCaptain
